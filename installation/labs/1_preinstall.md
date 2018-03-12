@@ -1,6 +1,6 @@
 Using instructions from https://www.cloudera.com/documentation/enterprise/latest/topics/cm_ig_install_path_b.html
 
-Going to install CDM/CDH 5.9 point repos to, this is for later
+Going to install CDM/CDH 5.9 point repos to, this is for later use
 * https://archive.cloudera.com/cdh5/redhat/7/x86_64/cdh/5.9/
 * https://archive.cloudera.com/cm5/redhat/7/x86_64/cm/5.9/
 
