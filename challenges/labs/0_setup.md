@@ -1,6 +1,6 @@
 Cloud provider `AWS`
 
-Instances
+Instances (public ip address can be deduced from public dns name)
 
 ```
 xgw1 ec2-54-229-59-148.eu-west-1.compute.amazonaws.com
