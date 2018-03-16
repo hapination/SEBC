@@ -3,12 +3,13 @@ Cloud provider `AWS`
 Instances (public ip address can be deduced from public dns name)
 
 ```
-xgw1 ec2-54-229-59-148.eu-west-1.compute.amazonaws.com
-xm1 ec2-54-194-129-9.eu-west-1.compute.amazonaws.com
-xm2 ec2-34-240-203-40.eu-west-1.compute.amazonaws.com
-xs1 ec2-34-240-158-12.eu-west-1.compute.amazonaws.com
-xs2 ec2-54-246-245-226.eu-west-1.compute.amazonaws.com
-xs3 ec2-52-19-67-150.eu-west-1.compute.amazonaws.com
+FQDN                            Public DNS
+xgw1.eu-west-1.compute.internal ec2-54-229-59-148.eu-west-1.compute.amazonaws.com
+xm1.eu-west-1.compute.internal ec2-54-194-129-9.eu-west-1.compute.amazonaws.com
+xm2.eu-west-1.compute.internal ec2-34-240-203-40.eu-west-1.compute.amazonaws.com
+xs1.eu-west-1.compute.internal ec2-34-240-158-12.eu-west-1.compute.amazonaws.com
+xs2.eu-west-1.compute.internal ec2-54-246-245-226.eu-west-1.compute.amazonaws.com
+xs3.eu-west-1.compute.internal ec2-52-19-67-150.eu-west-1.compute.amazonaws.com
 ```
 
 Linux release
